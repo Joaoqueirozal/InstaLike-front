@@ -12,16 +12,16 @@ Este é o repositório do front-end do projeto.
 
 1. Faça o **fork** do projeto clicando no botão **Fork** na parte superior direita da página;
 2. Faça o **clone** do repositório para seu computador:
-  - Clique no botão **<> Code** e copie o endereço remoto do repositório;
-  - Abra o terminal, navegue até a pasta raiz onde deseja baixar o projeto e execute o comando `git clone <endereço remoto>`;
-  - Você pode acessar a pasta do projeto direto pelo Visual Studio Code, clicando em File > Open Folder e selecionando a pasta do projeto.
+
+- Clique no botão **<> Code** e copie o endereço remoto do repositório;
+- Abra o terminal, navegue até a pasta raiz onde deseja baixar o projeto e execute o comando `git clone <endereço remoto>`;
+- Você pode acessar a pasta do projeto direto pelo Visual Studio Code, clicando em File > Open Folder e selecionando a pasta do projeto.
 
 ### Opção 2 - Baixando um arquivo .zip
 
 1. clique no botão **<> Code** e, em seguida, no botão **Download ZIP**;
 2. uma pasta zipada será baixada para a pasta de downloads determinada pelo seu navegador;
 3. descompacte os arquivos clicando no ícone da pasta zipada e transfira os arquivos para a pasta de projetos de sua preferência.
-
 
 ## PASSO 2: Instale o projeto:
 
@@ -49,3 +49,4 @@ Server running at http://localhost:8000
 ```
 
 O projeto estará disponível no endereço http://localhost:8000 e você poderá acessá-lo no navegador de sua preferência.
+a
